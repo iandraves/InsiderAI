@@ -61,7 +61,7 @@ In essence, each row in the CSV corresponds to a single insider trade from the t
     git clone git@github.com:iandraves/InsiderAI.git
     ```
 
-    With SSH
+    With GitHub CLI
 
     ```sh
     gh repo clone iandraves/InsiderAI
